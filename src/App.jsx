@@ -11,6 +11,7 @@ function App() {
   return (
     <>
       <div style={{height: '98vh', width: '99vw'}}>
+
         {/* text */}
         {/* <Spline scene="https://prod.spline.design/CLkLqn4E1UCNFSce/scene.splinecode" /> */}
 
@@ -18,6 +19,7 @@ function App() {
         <Spline
         scene="https://prod.spline.design/oQs2X0o9m8axKz9c/scene.splinecode" 
         />
+        
       </div>
     </>
   )

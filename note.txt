@@ -1,0 +1,15 @@
+install spline :
+npm install @splinetool/react-spline @splinetool/runtime
+
+import in .jsx
+import Spline from '@splinetool/react-spline';
+
+use in function
+function Home() {
+  return (
+    <main>
+      <Spline scene="https://prod.spline.design/CLkLqn4E1UCNFSce/scene.splinecode" />
+    </main>
+  );
+}
+

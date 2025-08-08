@@ -18,7 +18,7 @@ function App() {
         {/* adilanet */}
         <Spline
         scene="https://prod.spline.design/oQs2X0o9m8axKz9c/scene.splinecode" 
-        />
+      />
         
       </div>
     </>
